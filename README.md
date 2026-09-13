@@ -6,4 +6,4 @@ I'm Kuwa, a student based in Germany. </br>
 * 🛠️ **Tech Stack:** JavaScript, CSS, and a bit of Python.
 * ⚙️ **Current Project:** Crafting a fully "riced" Hyprland setup on Linux. </br>
 
-Thanks for stopping by to read about my random coding experiments and overall shenanigans!
+Thanks for stopping by to read about my random coding experiments and overall shenanigans.
