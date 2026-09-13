@@ -1,4 +1,4 @@
-## Hi there 🙋‍♂️</br>
+## Hi there 🙋‍♂️
 I'm Kuwa, a student based in Germany.
 
 * 🔭 **Learning:** PHP as a skill that might come in handy down the road.
